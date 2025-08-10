@@ -1,10 +1,10 @@
-
 function App() {
+    //console.log(import.meta.env.VITE_APPWRITE_URL);
 
   return (
     <>
-      <h1 class="text-3xl font-bold underline text-red-500">
-        Blog with appwite
+      <h1 className="text-3xl font-bold underline text-red-500">
+        Blog with appwisste
       </h1>
     </>
   )
