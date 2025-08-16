@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
-    "tailwindcss": "^4.1.11"
+    "exceljs": "^4.4.0",
+    "tailwindcss": "^4.1.11",
+    "xlsx": "^0.18.5"
   }
 }
